@@ -1,0 +1,14 @@
+$buttonBg:#f1f1f1;
+.swiper-container{
+	.swiper-wrapper{
+		.swiper-slide{
+			button{
+				background:$buttonBg;
+				border:0;
+				width:100px;
+				height:50px;
+				border-radius:12px;
+			}
+		}
+	}
+}
